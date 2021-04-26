@@ -1,0 +1,43 @@
+C:\Users\Acer\Documents\SharpDevelop Projects\databaze\databaze\bin\Debug\databaze.exe.config
+C:\Users\Acer\Documents\SharpDevelop Projects\databaze\databaze\bin\Debug\databaze.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\databaze\databaze\bin\Debug\databaze.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\databaze\databaze\obj\Debug\databaze.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\databaze\databaze\obj\Debug\databaze.MainForm.resources
+C:\Users\Acer\Documents\SharpDevelop Projects\databaze\databaze\obj\Debug\databaze.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\SharpDevelop Projects\databaze\databaze\obj\Debug\databaze.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\databaze\databaze\obj\Debug\databaze.pdb
+C:\Users\janiak\Desktop\databaze\databaze\bin\Debug\databaze.exe.config
+C:\Users\janiak\Desktop\databaze\databaze\obj\Debug\databaze.exe
+C:\Users\janiak\Desktop\databaze\databaze\obj\Debug\databaze.pdb
+C:\Users\janiak\Desktop\databaze\databaze\bin\Debug\databaze.exe
+C:\Users\janiak\Desktop\databaze\databaze\bin\Debug\databaze.pdb
+C:\Users\janiak\Desktop\databaze\databaze\obj\Debug\databaze.csprojResolveAssemblyReference.cache
+C:\Users\janiak\Desktop\databaze\databaze\obj\Debug\databaze.MainForm.resources
+C:\Users\janiak\Desktop\databaze\databaze\obj\Debug\databaze.csproj.GenerateResource.Cache
+C:\Users\janiak\Desktop\databaze\databaze\obj\Debug\databaze.Form1.resources
+C:\Users\janiak\Desktop\databaze\databaze\obj\Debug\databaze.Properties.Resources.resources
+C:\Users\janiak\Desktop\databaze\databaze\obj\Debug\databaze.Form2.resources
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\obj\Debug\databaze.csprojResolveAssemblyReference.cache
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\obj\Debug\databaze.exe
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\obj\Debug\databaze.pdb
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\bin\Debug\databaze.exe.config
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\bin\Debug\databaze.exe
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\bin\Debug\databaze.pdb
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\obj\Debug\databaze.Form1.resources
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\obj\Debug\databaze.Form2.resources
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\obj\Debug\databaze.MainForm.resources
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\obj\Debug\databaze.Properties.Resources.resources
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\obj\Debug\databaze.csproj.GenerateResource.Cache
+C:\Users\praxe\Desktop\Nová složka\databaze\databaze\obj\Debug\databaze.Form3.resources
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\bin\Debug\databaze.exe.config
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\bin\Debug\databaze.exe
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\bin\Debug\databaze.pdb
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\obj\Debug\databaze.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\obj\Debug\databaze.Form1.resources
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\obj\Debug\databaze.Form2.resources
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\obj\Debug\databaze.Form3.resources
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\obj\Debug\databaze.MainForm.resources
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\obj\Debug\databaze.Properties.Resources.resources
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\obj\Debug\databaze.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\obj\Debug\databaze.exe
+C:\Users\Acer\Desktop\Dokumenty\Databaze program\databaze\obj\Debug\databaze.pdb

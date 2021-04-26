@@ -1,0 +1,19 @@
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\SQLite.Interop.dll
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\Database\Contact.s3db
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\Contact.exe.config
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\Contact.exe
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\Contact.pdb
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\System.Data.SQLite.dll
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\Debug\Contact.csprojResolveAssemblyReference.cache
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\Debug\Kribo.Forms.BaseContact.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\Debug\Kribo.Forms.ContactList.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\Debug\Kribo.Forms.DeleteContact.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\Debug\Kribo.Forms.EditContact.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\Debug\Kribo.Forms.NewContact.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\Debug\Kribo.Properties.Resources.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\Debug\Contact.csproj.GenerateResource.Cache
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\Debug\Contact.exe
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\Debug\Contact.pdb
+C:\Users\praxe\Desktop\Nová složka\databaze\Contact\obj\Debug\Contact.csprojResolveAssemblyReference.cache
+C:\Users\praxe\Desktop\Nová složka\databaze\Contact\obj\Debug\Contact.exe
+C:\Users\praxe\Desktop\Nová složka\databaze\Contact\obj\Debug\Contact.pdb

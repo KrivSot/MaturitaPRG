@@ -1,0 +1,16 @@
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\SQLite.Interop.dll
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\Database\Contact.s3db
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\Contact.exe.config
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\Contact.exe
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\Contact.pdb
+I:\_C#\Databáze\SQLite\Examples\Contact\bin\Debug\System.Data.SQLite.dll
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\x86\Debug\Contact.csprojResolveAssemblyReference.cache
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\x86\Debug\Kribo.Forms.BaseContact.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\x86\Debug\Kribo.Forms.ContactList.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\x86\Debug\Kribo.Forms.DeleteContact.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\x86\Debug\Kribo.Forms.EditContact.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\x86\Debug\Kribo.Forms.NewContact.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\x86\Debug\Kribo.Properties.Resources.resources
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\x86\Debug\Contact.csproj.GenerateResource.Cache
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\x86\Debug\Contact.exe
+I:\_C#\Databáze\SQLite\Examples\Contact\obj\x86\Debug\Contact.pdb
