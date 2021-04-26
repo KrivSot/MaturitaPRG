@@ -1,0 +1,116 @@
+C:\Users\ivanchov\Desktop\Ivancho\PRG\Rastry\Rastry\bin\Debug\Rastry.exe.config
+C:\Users\ivanchov\Desktop\Ivancho\PRG\Rastry\Rastry\bin\Debug\Rastry.exe
+C:\Users\ivanchov\Desktop\Ivancho\PRG\Rastry\Rastry\bin\Debug\Rastry.pdb
+C:\Users\ivanchov\Desktop\Ivancho\PRG\Rastry\Rastry\obj\Debug\Rastry.csprojResolveAssemblyReference.cache
+C:\Users\ivanchov\Desktop\Ivancho\PRG\Rastry\Rastry\obj\Debug\Rastry.MainForm.resources
+C:\Users\ivanchov\Desktop\Ivancho\PRG\Rastry\Rastry\obj\Debug\Rastry.csproj.GenerateResource.Cache
+C:\Users\ivanchov\Desktop\Ivancho\PRG\Rastry\Rastry\obj\Debug\Rastry.exe
+C:\Users\ivanchov\Desktop\Ivancho\PRG\Rastry\Rastry\obj\Debug\Rastry.pdb
+C:\Users\IvanchoV\Desktop\Ivancho\PRG\Rastry\Rastry\obj\Debug\Rastry.Form1.resources
+C:\Users\janiak\Downloads\Rastry\Rastry\Rastry\bin\Debug\Rastry.exe.config
+C:\Users\janiak\Downloads\Rastry\Rastry\Rastry\obj\Debug\Rastry.exe
+C:\Users\janiak\Downloads\Rastry\Rastry\Rastry\obj\Debug\Rastry.csprojResolveAssemblyReference.cache
+C:\Users\janiak\Downloads\Rastry\Rastry\Rastry\obj\Debug\Rastry.Form1.resources
+C:\Users\janiak\Downloads\Rastry\Rastry\Rastry\obj\Debug\Rastry.MainForm.resources
+C:\Users\janiak\Downloads\Rastry\Rastry\Rastry\obj\Debug\Rastry.csproj.GenerateResource.Cache
+C:\Users\janiak\Downloads\Rastry\Rastry\Rastry\bin\Debug\Rastry.exe
+C:\Users\janiak\Downloads\Rastry\Rastry\Rastry\bin\Debug\Rastry.pdb
+C:\Users\janiak\Downloads\Rastry\Rastry\Rastry\obj\Debug\Rastry.pdb
+C:\Users\janiak\Downloads\Rastry\Rastry\Rastry\obj\Debug\Rastry.Properties.Resources.resources
+C:\Users\janiak\Desktop\Rastry\Rastry\Rastry\obj\Debug\Rastry.csprojResolveAssemblyReference.cache
+C:\Users\janiak\Desktop\Rastry\Rastry\Rastry\obj\Debug\Rastry.exe
+C:\Users\janiak\Desktop\Rastry\Rastry\Rastry\obj\Debug\Rastry.pdb
+C:\Users\janiak\Desktop\Rastry\Rastry\Rastry\bin\Debug\Rastry.exe.config
+C:\Users\janiak\Desktop\Rastry\Rastry\Rastry\bin\Debug\Rastry.exe
+C:\Users\janiak\Desktop\Rastry\Rastry\Rastry\bin\Debug\Rastry.pdb
+C:\Users\janiak\Desktop\Rastry\Rastry\Rastry\obj\Debug\Rastry.Form1.resources
+C:\Users\janiak\Desktop\Rastry\Rastry\Rastry\obj\Debug\Rastry.MainForm.resources
+C:\Users\janiak\Desktop\Rastry\Rastry\Rastry\obj\Debug\Rastry.Properties.Resources.resources
+C:\Users\janiak\Desktop\Rastry\Rastry\Rastry\obj\Debug\Rastry.csproj.GenerateResource.Cache
+C:\Users\janiak\Downloads\Rastry(1)\Rastry\Rastry\Rastry\bin\Debug\Rastry.exe.config
+C:\Users\janiak\Downloads\Rastry(1)\Rastry\Rastry\Rastry\bin\Debug\Rastry.exe
+C:\Users\janiak\Downloads\Rastry(1)\Rastry\Rastry\Rastry\bin\Debug\Rastry.pdb
+C:\Users\janiak\Downloads\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.csprojResolveAssemblyReference.cache
+C:\Users\janiak\Downloads\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.Form1.resources
+C:\Users\janiak\Downloads\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.MainForm.resources
+C:\Users\janiak\Downloads\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.Properties.Resources.resources
+C:\Users\janiak\Downloads\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.csproj.GenerateResource.Cache
+C:\Users\janiak\Downloads\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.exe
+C:\Users\janiak\Downloads\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.pdb
+C:\Users\janiak\Downloads\Práce s rastrama\Rastry(1)\Rastry\Rastry\Rastry\bin\Debug\Rastry.exe.config
+C:\Users\janiak\Downloads\Práce s rastrama\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.exe
+C:\Users\janiak\Downloads\Práce s rastrama\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.pdb
+C:\Users\janiak\Downloads\Práce s rastrama\Rastry(1)\Rastry\Rastry\Rastry\bin\Debug\Rastry.exe
+C:\Users\janiak\Downloads\Práce s rastrama\Rastry(1)\Rastry\Rastry\Rastry\bin\Debug\Rastry.pdb
+C:\Users\janiak\Downloads\Práce s rastrama\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.csprojResolveAssemblyReference.cache
+C:\Users\janiak\Downloads\Práce s rastrama\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.Form1.resources
+C:\Users\janiak\Downloads\Práce s rastrama\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.MainForm.resources
+C:\Users\janiak\Downloads\Práce s rastrama\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.Properties.Resources.resources
+C:\Users\janiak\Downloads\Práce s rastrama\Rastry(1)\Rastry\Rastry\Rastry\obj\Debug\Rastry.csproj.GenerateResource.Cache
+C:\Users\janiak\Downloads\Práce s rastarami\Rastry\obj\Debug\Rastry.csprojResolveAssemblyReference.cache
+C:\Users\janiak\Downloads\Práce s rastarami\Rastry\obj\Debug\Rastry.Form1.resources
+C:\Users\janiak\Downloads\Práce s rastarami\Rastry\obj\Debug\Rastry.MainForm.resources
+C:\Users\janiak\Downloads\Práce s rastarami\Rastry\obj\Debug\Rastry.Properties.Resources.resources
+C:\Users\janiak\Downloads\Práce s rastarami\Rastry\obj\Debug\Rastry.csproj.GenerateResource.Cache
+C:\Users\janiak\Downloads\Práce s rastarami\Rastry\obj\Debug\Rastry.exe
+C:\Users\janiak\Downloads\Práce s rastarami\Rastry\bin\Debug\Rastry.exe.config
+C:\Users\janiak\Downloads\Práce s rastarami\Rastry\bin\Debug\Rastry.exe
+C:\Users\janiak\Downloads\Práce s rastarami\Rastry\bin\Debug\Rastry.pdb
+C:\Users\janiak\Downloads\Práce s rastarami\Rastry\obj\Debug\Rastry.pdb
+C:\Users\janiak\Desktop\rast\Rastry\bin\Debug\Rastry.exe.config
+C:\Users\janiak\Desktop\rast\Rastry\obj\Debug\Rastry.exe
+C:\Users\janiak\Desktop\rast\Rastry\obj\Debug\Rastry.pdb
+C:\Users\janiak\Desktop\rast\Rastry\bin\Debug\Rastry.exe
+C:\Users\janiak\Desktop\rast\Rastry\bin\Debug\Rastry.pdb
+C:\Users\janiak\Desktop\rast\Rastry\obj\Debug\Rastry.csprojResolveAssemblyReference.cache
+C:\Users\janiak\Desktop\rast\Rastry\obj\Debug\Rastry.Form1.resources
+C:\Users\janiak\Desktop\rast\Rastry\obj\Debug\Rastry.MainForm.resources
+C:\Users\janiak\Desktop\rast\Rastry\obj\Debug\Rastry.Properties.Resources.resources
+C:\Users\janiak\Desktop\rast\Rastry\obj\Debug\Rastry.csproj.GenerateResource.Cache
+C:\Users\janiak\Desktop\PS LITE LITE LITE EDITION\Rastry\obj\Debug\Rastry.csprojResolveAssemblyReference.cache
+C:\Users\janiak\Desktop\PS LITE LITE LITE EDITION\Rastry\obj\Debug\Rastry.exe
+C:\Users\janiak\Desktop\PS LITE LITE LITE EDITION\Rastry\obj\Debug\Rastry.pdb
+C:\Users\janiak\Desktop\PS LITE LITE LITE EDITION\Rastry\bin\Debug\Rastry.exe.config
+C:\Users\janiak\Desktop\PS LITE LITE LITE EDITION\Rastry\bin\Debug\Rastry.exe
+C:\Users\janiak\Desktop\PS LITE LITE LITE EDITION\Rastry\bin\Debug\Rastry.pdb
+C:\Users\janiak\Desktop\PS LITE LITE LITE EDITION\Rastry\obj\Debug\Rastry.Form1.resources
+C:\Users\janiak\Desktop\PS LITE LITE LITE EDITION\Rastry\obj\Debug\Rastry.MainForm.resources
+C:\Users\janiak\Desktop\PS LITE LITE LITE EDITION\Rastry\obj\Debug\Rastry.Properties.Resources.resources
+C:\Users\janiak\Desktop\PS LITE LITE LITE EDITION\Rastry\obj\Debug\Rastry.csproj.GenerateResource.Cache
+C:\Users\janiak\Desktop\PS LITE LITE LITE EDITION\Rastry\obj\Debug\Rastry.Form2.resources
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.csprojResolveAssemblyReference.cache
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.exe
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.pdb
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\bin\Debug\Rastry.exe.config
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\bin\Debug\Rastry.exe
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\bin\Debug\Rastry.pdb
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Form1.resources
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Form2.resources
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.MainForm.resources
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Properties.Resources.resources
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.csproj.GenerateResource.Cache
+C:\Users\janiak\Downloads\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Form3.resources
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Form1.resources
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Form2.resources
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Form3.resources
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.MainForm.resources
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Properties.Resources.resources
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.exe
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\bin\Debug\Rastry.exe.config
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\bin\Debug\Rastry.exe
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\bin\Debug\Rastry.pdb
+C:\Users\Acer\Desktop\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.pdb
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\bin\Debug\Rastry.exe.config
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\bin\Debug\Rastry.exe
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\bin\Debug\Rastry.pdb
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Form1.resources
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Form2.resources
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Form3.resources
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.MainForm.resources
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.Properties.Resources.resources
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.exe
+C:\Users\Acer\Desktop\Dokumenty\Photoshop Lite lite Edtion\Rastry\obj\Debug\Rastry.pdb

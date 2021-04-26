@@ -1,0 +1,44 @@
+C:\Users\cejchank\Documents\SharpDevelop Projects\práce s rastry\práce s rastry\bin\Debug\práce s rastry.exe.config
+C:\Users\cejchank\Documents\SharpDevelop Projects\práce s rastry\práce s rastry\bin\Debug\práce s rastry.exe
+C:\Users\cejchank\Documents\SharpDevelop Projects\práce s rastry\práce s rastry\bin\Debug\práce s rastry.pdb
+C:\Users\cejchank\Documents\SharpDevelop Projects\práce s rastry\práce s rastry\obj\Debug\práce s rastry.csprojResolveAssemblyReference.cache
+C:\Users\cejchank\Documents\SharpDevelop Projects\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.MainForm.resources
+C:\Users\cejchank\Documents\SharpDevelop Projects\práce s rastry\práce s rastry\obj\Debug\práce s rastry.csproj.GenerateResource.Cache
+C:\Users\cejchank\Documents\SharpDevelop Projects\práce s rastry\práce s rastry\obj\Debug\práce s rastry.exe
+C:\Users\cejchank\Documents\SharpDevelop Projects\práce s rastry\práce s rastry\obj\Debug\práce s rastry.pdb
+E:\práce s rastry\práce s rastry\bin\Debug\práce s rastry.exe.config
+E:\práce s rastry\práce s rastry\bin\Debug\práce s rastry.exe
+E:\práce s rastry\práce s rastry\bin\Debug\práce s rastry.pdb
+E:\práce s rastry\práce s rastry\obj\Debug\práce s rastry.csprojResolveAssemblyReference.cache
+E:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.MainForm.resources
+E:\práce s rastry\práce s rastry\obj\Debug\práce s rastry.csproj.GenerateResource.Cache
+E:\práce s rastry\práce s rastry\obj\Debug\práce s rastry.exe
+E:\práce s rastry\práce s rastry\obj\Debug\práce s rastry.pdb
+E:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.Form1.resources
+F:\práce s rastry\práce s rastry\obj\Debug\práce s rastry.csprojResolveAssemblyReference.cache
+F:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.exitform.resources
+F:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.Form1.resources
+F:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.MainForm.resources
+F:\práce s rastry\práce s rastry\obj\Debug\práce s rastry.csproj.GenerateResource.Cache
+F:\práce s rastry\práce s rastry\obj\Debug\práce s rastry.exe
+F:\práce s rastry\práce s rastry\obj\Debug\práce s rastry.pdb
+F:\práce s rastry\práce s rastry\bin\Debug\práce s rastry.exe.config
+F:\práce s rastry\práce s rastry\bin\Debug\práce s rastry.exe
+F:\práce s rastry\práce s rastry\bin\Debug\práce s rastry.pdb
+E:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.exitform.resources
+C:\Users\cejchank\Desktop\práce s rastry\práce s rastry\bin\Debug\práce s rastry.exe.config
+C:\Users\cejchank\Desktop\práce s rastry\práce s rastry\bin\Debug\práce s rastry.exe
+C:\Users\cejchank\Desktop\práce s rastry\práce s rastry\bin\Debug\práce s rastry.pdb
+C:\Users\cejchank\Desktop\práce s rastry\práce s rastry\obj\Debug\práce s rastry.csprojResolveAssemblyReference.cache
+C:\Users\cejchank\Desktop\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.exitform.resources
+C:\Users\cejchank\Desktop\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.Form1.resources
+C:\Users\cejchank\Desktop\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.MainForm.resources
+C:\Users\cejchank\Desktop\práce s rastry\práce s rastry\obj\Debug\práce s rastry.csproj.GenerateResource.Cache
+C:\Users\cejchank\Desktop\práce s rastry\práce s rastry\obj\Debug\práce s rastry.exe
+C:\Users\cejchank\Desktop\práce s rastry\práce s rastry\obj\Debug\práce s rastry.pdb
+F:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.Form2.resources
+F:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.Form3.resources
+F:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.Form4.resources
+E:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.Form2.resources
+E:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.Form3.resources
+E:\práce s rastry\práce s rastry\obj\Debug\práce_s_rastry.Form4.resources

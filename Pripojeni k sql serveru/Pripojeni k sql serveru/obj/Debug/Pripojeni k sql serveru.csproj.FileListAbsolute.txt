@@ -1,0 +1,9 @@
+C:\Users\Acer\Documents\SharpDevelop Projects\Pripojeni k sql serveru\Pripojeni k sql serveru\bin\Debug\Pripojeni k sql serveru.exe.config
+C:\Users\Acer\Documents\SharpDevelop Projects\Pripojeni k sql serveru\Pripojeni k sql serveru\bin\Debug\Pripojeni k sql serveru.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\Pripojeni k sql serveru\Pripojeni k sql serveru\bin\Debug\Pripojeni k sql serveru.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\Pripojeni k sql serveru\Pripojeni k sql serveru\obj\Debug\Pripojeni k sql serveru.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\Pripojeni k sql serveru\Pripojeni k sql serveru\obj\Debug\Pripojeni_k_sql_serveru.MainForm.resources
+C:\Users\Acer\Documents\SharpDevelop Projects\Pripojeni k sql serveru\Pripojeni k sql serveru\obj\Debug\Pripojeni k sql serveru.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\SharpDevelop Projects\Pripojeni k sql serveru\Pripojeni k sql serveru\obj\Debug\Pripojeni k sql serveru.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\Pripojeni k sql serveru\Pripojeni k sql serveru\obj\Debug\Pripojeni k sql serveru.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\Pripojeni k sql serveru\Pripojeni k sql serveru\obj\Debug\Pripojeni_k_sql_serveru.Form1.resources
