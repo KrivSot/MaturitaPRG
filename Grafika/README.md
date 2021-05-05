@@ -106,7 +106,7 @@ public partial class Form1 : Form
 - Použité prvky: **PictureBox**, **HorizontalScrollbar**, **MenuItemStrip**
 
 ```C#
-// Obslu6n8 metoda události Click pro MenuStripItem
+// Obslužná metoda události Click pro MenuStripItem
 private void blackandWhite(object sender, EventArgs e)
 {
     //pro vytvoření černo bílého obrázku potřebujeme zjistit světlost pixelu
