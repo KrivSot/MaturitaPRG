@@ -1,5 +1,3 @@
-V tomto repositáři naleznete kód, který pracuje s grafikou
-
 # Potřebné reference
 
 ```C#
