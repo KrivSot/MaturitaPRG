@@ -66,6 +66,7 @@ namespace Rastry
 			this.výřezToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.konvertovatObrázekDoZnakůPLSHELPToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.nahrazeníBarvyToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.reliéfToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.jednoduchéOperaceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.kopiePoPixeluToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -86,10 +87,16 @@ namespace Rastry
 			this.label2 = new System.Windows.Forms.Label();
 			this.hScrollBar1 = new System.Windows.Forms.HScrollBar();
 			this.label3 = new System.Windows.Forms.Label();
+			this.RtrackBar = new System.Windows.Forms.TrackBar();
+			this.GtrackBar = new System.Windows.Forms.TrackBar();
+			this.BtrackBar = new System.Windows.Forms.TrackBar();
 			this.menuStrip1.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			this.toolStrip1.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+			((System.ComponentModel.ISupportInitialize)(this.RtrackBar)).BeginInit();
+			((System.ComponentModel.ISupportInitialize)(this.GtrackBar)).BeginInit();
+			((System.ComponentModel.ISupportInitialize)(this.BtrackBar)).BeginInit();
 			this.SuspendLayout();
 			// 
 			// menuStrip1
@@ -100,7 +107,7 @@ namespace Rastry
 			this.jednoduchéOperaceToolStripMenuItem});
 			this.menuStrip1.Location = new System.Drawing.Point(0, 0);
 			this.menuStrip1.Name = "menuStrip1";
-			this.menuStrip1.Size = new System.Drawing.Size(736, 24);
+			this.menuStrip1.Size = new System.Drawing.Size(935, 24);
 			this.menuStrip1.TabIndex = 0;
 			this.menuStrip1.Text = "menuStrip1";
 			// 
@@ -153,7 +160,8 @@ namespace Rastry
 			this.kopiePoJednotlivýchPixelechToolStripMenuItem,
 			this.výřezToolStripMenuItem,
 			this.konvertovatObrázekDoZnakůPLSHELPToolStripMenuItem,
-			this.nahrazeníBarvyToolStripMenuItem});
+			this.nahrazeníBarvyToolStripMenuItem,
+			this.reliéfToolStripMenuItem});
 			this.práceSObrázkemToolStripMenuItem.Name = "práceSObrázkemToolStripMenuItem";
 			this.práceSObrázkemToolStripMenuItem.Size = new System.Drawing.Size(63, 20);
 			this.práceSObrázkemToolStripMenuItem.Text = "Nástroje";
@@ -249,6 +257,13 @@ namespace Rastry
 			this.nahrazeníBarvyToolStripMenuItem.Text = "Nahrazení barvy";
 			this.nahrazeníBarvyToolStripMenuItem.Click += new System.EventHandler(this.NahrazeníBarvyToolStripMenuItemClick);
 			// 
+			// reliéfToolStripMenuItem
+			// 
+			this.reliéfToolStripMenuItem.Name = "reliéfToolStripMenuItem";
+			this.reliéfToolStripMenuItem.Size = new System.Drawing.Size(236, 22);
+			this.reliéfToolStripMenuItem.Text = "Reliéf";
+			this.reliéfToolStripMenuItem.Click += new System.EventHandler(this.ReliéfToolStripMenuItemClick);
+			// 
 			// jednoduchéOperaceToolStripMenuItem
 			// 
 			this.jednoduchéOperaceToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -296,7 +311,7 @@ namespace Rastry
 			this.helpToolStripButton});
 			this.toolStrip1.Location = new System.Drawing.Point(0, 24);
 			this.toolStrip1.Name = "toolStrip1";
-			this.toolStrip1.Size = new System.Drawing.Size(736, 25);
+			this.toolStrip1.Size = new System.Drawing.Size(935, 25);
 			this.toolStrip1.TabIndex = 2;
 			this.toolStrip1.Text = "toolStrip1";
 			// 
@@ -390,7 +405,7 @@ namespace Rastry
 			this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
 			this.pictureBox2.Location = new System.Drawing.Point(397, 94);
 			this.pictureBox2.Name = "pictureBox2";
-			this.pictureBox2.Size = new System.Drawing.Size(271, 338);
+			this.pictureBox2.Size = new System.Drawing.Size(346, 338);
 			this.pictureBox2.TabIndex = 3;
 			this.pictureBox2.TabStop = false;
 			this.pictureBox2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.PictureBox2MouseDown);
@@ -435,11 +450,41 @@ namespace Rastry
 			this.label3.TabIndex = 7;
 			this.label3.Text = "120";
 			// 
+			// RtrackBar
+			// 
+			this.RtrackBar.Location = new System.Drawing.Point(397, 438);
+			this.RtrackBar.Maximum = 255;
+			this.RtrackBar.Name = "RtrackBar";
+			this.RtrackBar.Size = new System.Drawing.Size(104, 45);
+			this.RtrackBar.TabIndex = 8;
+			this.RtrackBar.Scroll += new System.EventHandler(this.ZmenaBarev);
+			// 
+			// GtrackBar
+			// 
+			this.GtrackBar.Location = new System.Drawing.Point(507, 438);
+			this.GtrackBar.Maximum = 255;
+			this.GtrackBar.Name = "GtrackBar";
+			this.GtrackBar.Size = new System.Drawing.Size(104, 45);
+			this.GtrackBar.TabIndex = 9;
+			this.GtrackBar.Scroll += new System.EventHandler(this.ZmenaBarev);
+			// 
+			// BtrackBar
+			// 
+			this.BtrackBar.Location = new System.Drawing.Point(620, 438);
+			this.BtrackBar.Maximum = 255;
+			this.BtrackBar.Name = "BtrackBar";
+			this.BtrackBar.Size = new System.Drawing.Size(104, 45);
+			this.BtrackBar.TabIndex = 10;
+			this.BtrackBar.Scroll += new System.EventHandler(this.ZmenaBarev);
+			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(736, 479);
+			this.ClientSize = new System.Drawing.Size(935, 606);
+			this.Controls.Add(this.BtrackBar);
+			this.Controls.Add(this.GtrackBar);
+			this.Controls.Add(this.RtrackBar);
 			this.Controls.Add(this.label3);
 			this.Controls.Add(this.hScrollBar1);
 			this.Controls.Add(this.label2);
@@ -457,6 +502,9 @@ namespace Rastry
 			this.toolStrip1.ResumeLayout(false);
 			this.toolStrip1.PerformLayout();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+			((System.ComponentModel.ISupportInitialize)(this.RtrackBar)).EndInit();
+			((System.ComponentModel.ISupportInitialize)(this.GtrackBar)).EndInit();
+			((System.ComponentModel.ISupportInitialize)(this.BtrackBar)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
@@ -493,5 +541,9 @@ namespace Rastry
         private System.Windows.Forms.ToolStripMenuItem výřezToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem konvertovatObrázekDoZnakůPLSHELPToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem nahrazeníBarvyToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem reliéfToolStripMenuItem;
+        private System.Windows.Forms.TrackBar RtrackBar;
+        private System.Windows.Forms.TrackBar GtrackBar;
+        private System.Windows.Forms.TrackBar BtrackBar;
 	}
 }
