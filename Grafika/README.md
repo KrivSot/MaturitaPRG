@@ -200,3 +200,30 @@ void Obrys(object sender, EventArgs e)
 	pictureBox2.Image = obr;
 }
 ```
+
+# Zvětšení obrázku 2x
+- Každý pixel se přepíše na novou bitmapu zapíše 4krát
+
+```C#
+private void zvětšení_obrázku(object sender, EventArgs e)
+{
+	Bitmap obrn; //bitmapa, která bude použita na zvětšení
+	obrn = new Bitmap(obr.Width*2, obr.Height*2);
+	if (obr != null)
+	{
+		for (int i = 0; i < obr.Width; i++)
+                {
+                    for (int j = 0; j < obr.Height; j++)
+                    {
+                        Color pixel = obr.GetPixel(i, j);
+                        obrn.SetPixel(2 * i, 2 * j, pixel);
+                        obrn.SetPixel(2 * i + 1, 2 * j, pixel);
+                        obrn.SetPixel(2 * i, 2 * j + 1, pixel);
+                        obrn.SetPixel(2 * i + 1, 2 * j + 1, pixel);
+                    }
+                }
+                pictureBox2.Image = obrn;
+	}
+	else { Warning(); }
+}
+```
