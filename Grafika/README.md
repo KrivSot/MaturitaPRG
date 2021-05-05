@@ -93,10 +93,10 @@ public partial class Form1 : Form
     }
 
     //Obslužná metoda události Click která zavolá proceduru Vykresli
-	void Button1Click(object sender, EventArgs e)
-	{
-		Vykresli();
-	}
+    void Button1Click(object sender, EventArgs e)
+    {
+        Vykresli();
+    }
 }
 ```
 
