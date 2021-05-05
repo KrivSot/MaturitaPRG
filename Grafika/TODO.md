@@ -3,17 +3,17 @@
 
 ```Python
 
-        #region Převedení pixelů na šeď
-        private void šeď(object sender, EventArgs e)
-        {
-        	obr = new Bitmap(pictureBox1.Image);
-            if (obr != null)
-            {
-                for (int i = 0; i < obr.Width; i++)
+#region Převedení pixelů na šeď
+private void šeď(object sender, EventArgs e)
+{
+	obr = new Bitmap(pictureBox1.Image);
+	if (obr != null)
+	{
+		for (int i = 0; i < obr.Width; i++)
                 {
                     for (int j = 0; j < obr.Height; j++)
                     {
-                        Color pixel = obr.GetPixel(i, j);
+		    	Color pixel = obr.GetPixel(i, j);
                         red = pixel.R;
                         green = pixel.G;
                         blue = pixel.B;
@@ -25,16 +25,16 @@
             }
             else { Warning(); }
         }
-        #endregion
+#endregion
 
-        #region zvětšení obrázku
-        private void zvětšení_obrázku(object sender, EventArgs e)
-        {
-            Bitmap obrn;
-            obrn = new Bitmap(obr.Width*2, obr.Height*2);
-            if (obr != null)
-            {
-                for (int i = 0; i < obr.Width; i++)
+#region zvětšení obrázku
+private void zvětšení_obrázku(object sender, EventArgs e)
+{
+	Bitmap obrn;
+	obrn = new Bitmap(obr.Width*2, obr.Height*2);
+	if (obr != null)
+	{
+		for (int i = 0; i < obr.Width; i++)
                 {
                     for (int j = 0; j < obr.Height; j++)
                     {
@@ -46,10 +46,10 @@
                     }
                 }
                 pictureBox2.Image = obrn;
-            }
-            else { Warning(); }
-        }
-        #endregion
+	}
+	else { Warning(); }
+}
+#endregion
         
         #region Výřez obrázku
         private void výřezToolStripMenuItem_Click(object sender, EventArgs e)
