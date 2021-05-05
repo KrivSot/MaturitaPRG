@@ -22,7 +22,7 @@ if(openFileDialog1.ShowDialog() == DialogResult.OK)
 {
     //inicializuje se nová Bitmapa, které předáme cestu k obrázku a tento obrázek je předán vytvořené bitmapě
     obr = new Bitmap(openFileDialog1.FileName); 
-		obrPom = new Bitmap(openFileDialog1.FileName);
+    obrPom = new Bitmap(openFileDialog1.FileName);
     
     //pictureboxu předáme cestu, ze které načte obrázek (mohlo by to být i takhle pictureBox1.Load(obr);
     pictureBox1.Load(openFileDialog1.FileName);
