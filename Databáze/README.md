@@ -20,3 +20,24 @@ void SQLDotaz(String Dotaz)
   dataGridView1.DataSource = dtbl; //Přiřazení dat do dataGridView
 }
 ```
+# Syntax dotazů
+## Výběrový dotaz
+```SQL
+SELECT * FROM TABLE WHERE PODMINKA;
+SELECT * FROM ZAMESTANCI WHERE ID = 1;
+```
+## Aktualizační dotaz
+```SQL
+UPDATE TABLE
+SET POLE = HODNOTA, POLE2 = HODNOTA2
+WHERE PODMINKA;
+
+UPDATE Customers
+SET ContactName = 'Alfred Schmidt', City= 'Frankfurt'
+WHERE CustomerID = 1;
+```
+## Mazací dotaz
+```SQL
+DELETE FROM TABLE WHERE PODMINKA
+DELETE FROM ZAMESTANCI WHERE PRACE = "IT"
+```
