@@ -9,7 +9,7 @@ SqlConnection cnn; // Vytváří připojení do databáze
 ```
 # Důležitý kód
 ## Spuštění dotazu
-- Kód, který spouští dotazy
+- Kód, který provede dotaz
 
 ```C#
 void SQLDotaz(String Dotaz)
