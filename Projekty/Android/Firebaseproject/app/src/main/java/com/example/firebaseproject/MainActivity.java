@@ -44,7 +44,7 @@ List<String> datalist = new ArrayList<String>();
                 datalist.clear();
                 for(DataSnapshot childSnapShot : dataSnapshot.getChildren())
                     {
-                        datalist.add("Osoba"+i);
+                        datalist.add(childSnapShot.getKey()); // získá id z Firebasu
                         i++;
                     }
                 aa.notifyDataSetChanged();
