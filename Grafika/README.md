@@ -480,6 +480,61 @@ public static Bitmap Relief(Bitmap image,int posuvnik)
 	return obr;
 }
 ```
+## Negativ
+- Pixel se odečte od maximalní hodnoty RGB (255) a zakreslí se do bitmapy
+```C#
+public static Bitmap Negativ(Bitmap image)
+{
+	obr = image;
+	for (int i = 0; i < obr.Width; i++)
+	{
+		for (int j = 0; j < obr.Height; j++)
+		{
+			Color pixel = obr.GetPixel(i, j);
+			//získání hodnoty
+			alpha = pixel.A;
+			red = pixel.R;
+			green = pixel.G;
+			blue = pixel.B;
+                        
+			//negace hodnoty
+			alpha = 255 - alpha;
+			red = 255 - red;
+			green = 255 - green;
+			blue = 255 - blue;
+                       
+			obr.SetPixel(i, j, Color.FromArgb(alpha, red, green, blue));
+		}
+	}
+	return obr;
+}
+```
+## Změna Barev
+
+```C#
+public static Bitmap ZmenaBarev(Bitmap image, int R, int G, int B)
+{
+	obr = new Bitmap(image);
+	float red = R / 100f;
+	float green = G / 100f;
+	float blue = B / 100f;
+	Graphics g = Graphics.FromImage(obr);
+	ColorMatrix matice = new ColorMatrix(new float[][]{new float[] {red, green, blue, 0, 0},
+			                                   new float[] {red, green, blue, 0, 0},
+			                                   new float[] {red, green, blue, 0, 0},
+			                                   new float[] {0, 0, 0, 1, 0},
+			                                   new float[] {0, 0, 0, 0, 1},});
+	ImageAttributes ai = new ImageAttributes();
+	ai.SetColorMatrix(matice);
+	g.DrawImage(obr, new Rectangle(0, 0, obr.Width, obr.Height), 0, 0, obr.Width, obr.Height, GraphicsUnit.Pixel, ai);
+	g.Dispose();
+	return obr;
+}
+```
+
+# Nedokončeno
+```C#
+//Kód ke kreslení do pictureboxu, který nefungoval
         #region Nedokončeno a dokončeno asi nebude
         void PeroToolStripMenuItemClick(object sender, EventArgs e)
 		{
@@ -519,53 +574,4 @@ public static Bitmap Relief(Bitmap image,int posuvnik)
 		{
 			mousedown = false;
         }
-		void NegativToolStripMenuItemClick(object sender, EventArgs e)
-		{
-			obr=obrPom;
-			if (obr != null)
-            {
-                for (int i = 0; i < obr.Width; i++)
-                {
-                    for (int j = 0; j < obr.Height; j++)
-                    {
-                        Color pixel = obr.GetPixel(i, j);
-                        //získání hodnoty
-                        alpha = pixel.A;
-                        red = pixel.R;
-                        green = pixel.G;
-                        blue = pixel.B;
-                        
-                        //negace hodnoty
-                        alpha = 255 - alpha;
-                        red = 255 - red;
-                        green = 255 - green;
-                        blue = 255 - blue;
-                       
-                        obr.SetPixel(i, j, Color.FromArgb(alpha, red, green, blue));
-                    }
-                }
-                pictureBox2.Image = obr;
-            }
-            else { Warning(); }
-		}
-		void ZmenaBarev(object sender, EventArgs e)
-		{
-			obr = new Bitmap(obrPom);
-			float red = RtrackBar.Value / 100f;
-			float green = GtrackBar.Value / 100f;
-			float blue = BtrackBar.Value / 100f;
-			Graphics g = Graphics.FromImage(obr);
-			ColorMatrix matice = new ColorMatrix(new float[][]{new float[] {red, green, blue, 0, 0},
-			                                     	new float[] {red, green, blue, 0, 0},
-			                                     	new float[] {red, green, blue, 0, 0},
-			                                     	new float[] {0, 0, 0, 1, 0},
-			                                     	new float[] {0, 0, 0, 0, 1},});
-			ImageAttributes ai = new ImageAttributes();
-			ai.SetColorMatrix(matice);
-			g.DrawImage(obr, new Rectangle(0, 0, obr.Width, obr.Height), 0, 0, obr.Width, obr.Height, GraphicsUnit.Pixel, ai);
-			g.Dispose();
-			pictureBox2.Image = obr;
-		}
-		
-        #endregion
 ```
