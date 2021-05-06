@@ -23,6 +23,10 @@ void SQLDotaz(String Dotaz)
   dataGridView1.DataSource = dtbl; //Přiřazení dat do dataGridView
 }
 ```
+## Získání názvů tabulek
+```C#
+DataTable t = cnn.GetSchema("Tables");
+```
 # Syntax dotazů
 ## Vytvářecí dotaz
 ```SQL
