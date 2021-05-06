@@ -2,8 +2,11 @@
 ```C#
 /* Připojení k databázi (Data Source: Server ze kterého vybíráme;
 * Initial Catalog: Název databáze;User ID a Password: přihlašovací údaje k serveru
+* U lokální bude souborová cesta
+* const string connetionString = "URI=file:Evidence_psu.db";
 */
 const string connetionString = @"Data Source=server.tech;Initial Catalog=Databaze;User ID=User;Password=Password123";
+
 String sql = ""; //zde se uloží SQL příkaz
 SqlConnection cnn; // Vytváří připojení do databáze
 ```
