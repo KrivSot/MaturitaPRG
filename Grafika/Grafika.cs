@@ -180,5 +180,31 @@ namespace Rastry
             return obrn;
 		}
 		
+		public static Bitmap Negativ(Bitmap image)
+		{
+			obr = image;
+			for (int i = 0; i < obr.Width; i++)
+            {
+            	for (int j = 0; j < obr.Height; j++)
+				{
+					Color pixel = obr.GetPixel(i, j);
+					//získání hodnoty
+					alpha = pixel.A;
+					red = pixel.R;
+					green = pixel.G;
+					blue = pixel.B;
+                        
+					//negace hodnoty
+					alpha = 255 - alpha;
+					red = 255 - red;
+					green = 255 - green;
+					blue = 255 - blue;
+                       
+					obr.SetPixel(i, j, Color.FromArgb(alpha, red, green, blue));
+				}
+			}
+			return obr;
+		}
+		
 	}
 }
