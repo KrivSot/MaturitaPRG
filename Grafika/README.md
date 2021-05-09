@@ -534,7 +534,7 @@ public static Bitmap ZmenaBarev(Bitmap image, int R, int G, int B)
 
 # Malování
 ```C#
-//Kód ke kreslení do pictureboxu, který nefungoval
+//Kód ke kreslení do pictureboxu, měl by fungovat
         #region Nedokončeno a dokončeno asi nebude
         void PeroToolStripMenuItemClick(object sender, EventArgs e)
 		{
