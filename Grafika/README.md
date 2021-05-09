@@ -532,7 +532,7 @@ public static Bitmap ZmenaBarev(Bitmap image, int R, int G, int B)
 }
 ```
 
-# Nedokončeno
+# Malování
 ```C#
 //Kód ke kreslení do pictureboxu, který nefungoval
         #region Nedokončeno a dokončeno asi nebude
@@ -552,6 +552,7 @@ public static Bitmap ZmenaBarev(Bitmap image, int R, int G, int B)
                 {
                     obr = new Bitmap(obrPom);
                     Graphics grx = Graphics.FromImage(obr);
+		    grx = picturebox2.CreateGraphics();
                     Pen pen1 = new Pen(Color.Red, 4);
                     grx.DrawLine(pen1, novybod, novybod1);
                     bodSpusteni.X = e.X;
@@ -568,7 +569,7 @@ public static Bitmap ZmenaBarev(Bitmap image, int R, int G, int B)
 		{
 			mousedown = true;
 			bodSpusteni.X = e.X;
-            bodSpusteni.Y = e.Y;
+            		bodSpusteni.Y = e.Y;
 		}
 		void PictureBox2MouseUp(object sender, MouseEventArgs e)
 		{
