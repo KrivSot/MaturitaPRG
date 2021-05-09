@@ -65,3 +65,8 @@ WHERE CustomerID = 1;
 DELETE FROM TABLE WHERE PODMINKA
 DELETE FROM ZAMESTANCI WHERE PRACE = "IT"
 ```
+
+## Vyhledávací dotay
+```SQL
+SELECT * FROM Osoby WHERE cislo_popisne LIKE '%"+textBox1.Text+"%'
+```
