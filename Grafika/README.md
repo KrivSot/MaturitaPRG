@@ -492,13 +492,13 @@ public static Bitmap Negativ(Bitmap image)
 		{
 			Color pixel = obr.GetPixel(i, j);
 			//získání hodnoty
-			alpha = pixel.A;
+			alpha = pixel.A; 
 			red = pixel.R;
 			green = pixel.G;
 			blue = pixel.B;
                         
 			//negace hodnoty
-			alpha = 255 - alpha;
+			//alpha = 255 - alpha; - Z nějakého důvodu občas způsobí, že se pixel nevykreslí
 			red = 255 - red;
 			green = 255 - green;
 			blue = 255 - blue;
