@@ -41,7 +41,7 @@ List<String> datalist = new ArrayList<String>();
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot){
                 int i = 1;
-                datalist.clear();
+                //datalist.clear();
                 for(DataSnapshot childSnapShot : dataSnapshot.getChildren())
                     {
                         datalist.add("Osoba"+i);
