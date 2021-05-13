@@ -20,3 +20,5 @@ Double result = null;
         if(result != null)
             resultsTV.setText(String.valueOf(result.doubleValue()));
 ```
+## Build gradle
+implementation 'io.apisense:rhino-android:1.0'
