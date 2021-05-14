@@ -8,10 +8,10 @@ resultTextBox.text = dt.Compute(inputTextBox.Text, "").toString();
 # Java
 ```Java
 Double result = null;
-        ScriptEngine engine = new ScriptEngineManager().getEngineByName("rhino");
+ScriptEngine engine = new ScriptEngineManager().getEngineByName("rhino");
 
-        try {
-            result = (double)engine.eval(formula);
+try {
+        result = (double)engine.eval(formula);
         } catch (ScriptException e)
         {
             Toast.makeText(this, "Invalid Input", Toast.LENGTH_SHORT).show();
