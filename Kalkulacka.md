@@ -17,8 +17,8 @@ try {
             Toast.makeText(this, "Invalid Input", Toast.LENGTH_SHORT).show();
         }
 
-        if(result != null)
-            resultsTV.setText(String.valueOf(result.doubleValue()));
+if(result != null)
+resultsTV.setText(String.valueOf(result.doubleValue()));
 ```
 ## Build gradle
 implementation 'io.apisense:rhino-android:1.0'
