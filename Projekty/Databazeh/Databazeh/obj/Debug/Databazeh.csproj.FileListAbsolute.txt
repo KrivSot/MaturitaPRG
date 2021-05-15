@@ -1,0 +1,10 @@
+C:\Users\Acer\Documents\SharpDevelop Projects\Databazeh\Databazeh\obj\Debug\Databazeh.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\Databazeh\Databazeh\obj\Debug\Databazeh.MainForm.resources
+C:\Users\Acer\Documents\SharpDevelop Projects\Databazeh\Databazeh\obj\Debug\Databazeh.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\SharpDevelop Projects\Databazeh\Databazeh\bin\Debug\Databazeh.exe.config
+C:\Users\Acer\Documents\SharpDevelop Projects\Databazeh\Databazeh\bin\Debug\Databazeh.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\Databazeh\Databazeh\bin\Debug\Databazeh.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\Databazeh\Databazeh\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\Documents\SharpDevelop Projects\Databazeh\Databazeh\obj\Debug\Databazeh.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\Databazeh\Databazeh\obj\Debug\Databazeh.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\Databazeh\Databazeh\obj\Debug\Databazeh.LoginForm.resources
