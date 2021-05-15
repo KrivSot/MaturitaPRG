@@ -25,7 +25,17 @@ void SQLDotaz(String Dotaz)
 ```
 ## Získání názvů tabulek
 ```C#
-DataTable t = cnn.GetSchema("Tables");
+DataTable t = SQLDotaz("Select name From sqlite_master where type='table' order by name;"); //Zavolání funkce SQLDotaz, která vrátí DataTable s vybranými daty
+DataRow[] dr = t.Select();
+foreach(DataRow row in dr) //Cyklus, který projede pole
+{
+    if(!row.Field<string>("name").Equals("sqlite_sequence")) //To v podmínce se z nějakého důvodu vypisuje s tabulkami
+    {
+        // Zapsání názvu tabulky do ComboBoxu
+        comboBox1.Items.Add(row.Field<string>("name"));
+        comboBox2.Items.Add(row.Field<string>("name"));
+    }
+}
 ```
 # Syntax dotazů
 ## Vytvářecí dotaz
