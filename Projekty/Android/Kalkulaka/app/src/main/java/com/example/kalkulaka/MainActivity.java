@@ -56,9 +56,9 @@ public class MainActivity extends AppCompatActivity {
     public void EqualsOnClick(View view)
     {
         Double vysledek = null;
-        ScriptEngine engine = new ScriptEngineManager().getEngineByName("rhino");
+        ScriptEngine engine = new ScriptEngineManager().getEngineByName("rhino");//Inicializace ScriptEnginu, který nám pomůže s výpočtama
         try {
-            vysledek = (double) engine.eval(Hodnota);
+            vysledek = (double) engine.eval(Hodnota); //Zavolání funkce eval, která rozloží Strin a spočítá příklad
         } catch (ScriptException e) {
             Toast.makeText(this, "Nesprávný vstup", Toast.LENGTH_SHORT).show();
         }
